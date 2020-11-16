@@ -76,12 +76,9 @@ This leaves out magic as done by
 - A witch's divination In the Witch's Tent [seems to a trance assisted by some drugs. Aura reading? or some kind of art magic?]
 - The power whistle up and down the winds [could be folklore, or a trait, or art magic. Probably a trait]
 - The telekinetic powers of Gwaay [art magic with a limited target?]
-- Mouser's spell to destroy sorcerers in Quarmall [an interesting exception. It's a scroll given by a much more powerful wizard. Might have been a magical item rather than an example of Sorcery]
+- Mouser's spell to destroy sorcerers in Quarmall [an interesting exception. It's a scroll given by a much more powerful wizard. Might have been a magical item rather than an example of Sorcery. Actually, this is pretty clearly a failed sorcery attempt]
 - Quarmall's hypnotic Light which can snare the unwary traveler [more light based mind magics]
 - Quarmal's face swapping. [I think this is a combination of advanced taxidermy and magic]
-
-
-
 
 
 ## The Tone of Swords & Sorceries
@@ -104,11 +101,4 @@ What about the gifted trait? I'm not sure that it is needed. Magic tends to be l
 Lots of magic is kinda dark. There's the early white vs. black, but that doesn't really stick. Maybe there's some simpler magic being done, but it seems to be fairly dangerous stuff to fool with. 
 
 It might be that blood magic is a thing. Personal suffering adding to your sorceries. 
-
-
-
-
-
-
-
 
