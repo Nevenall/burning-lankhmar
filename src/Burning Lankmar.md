@@ -102,3 +102,5 @@ Lots of magic is kinda dark. There's the early white vs. black, but that doesn't
 
 It might be that blood magic is a thing. Personal suffering adding to your sorceries. 
 
+
+
