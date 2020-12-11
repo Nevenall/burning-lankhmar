@@ -50,7 +50,7 @@
     "remark-sub-super": "^1.0.19",
     "remark-terms": "^2.1.2",
     "simple-git": "^2.22.0",
-    "spellchecker": "^3.7.0",
+    "spellchecker": "^3.7.1",
     "unified": "^9.2.0",
     "unified-stream": "^1.0.6",
     "unist-util-visit": "^2.0.3",
