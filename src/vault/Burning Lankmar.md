@@ -43,9 +43,6 @@ Persona point complications (Spend persona to change the consequence of a failed
 
 ## Atlas of All Things
 
-
-
-
 - Cold Wastes (Viking barbarians kinds of snow bound raiders, barbarous and violent, unpredictable)
 - The Great Forest (8 cities populate the great forest. They are protective of women and rather insular. Could be there's 1 or 2 general culture traits and 1 unique one per city)
 - The Mingol steppes (our Mongol analog. A boogeyman to civilization. They are laconic and fatalistic)
@@ -104,3 +101,4 @@ It might be that blood magic is a thing. Personal suffering adding to your sorce
 
 
 
+​—
